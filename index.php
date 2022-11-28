@@ -12,7 +12,6 @@
         <!--minificado-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
         <!--codigoQR-->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         
         <div id="qrcode"></div>
         <hr>
